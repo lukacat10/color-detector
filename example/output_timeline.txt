@@ -1,0 +1,100 @@
+0:00:00.036998: Red
+0:00:00.144999: Red
+0:00:00.168034: Red
+0:00:00.194002: Red
+0:00:00.224001: Red
+0:00:00.246034: Red
+0:00:00.267999: Red
+0:00:00.289035: Red
+0:00:00.314034: Red
+0:00:00.338036: Red
+0:00:00.364002: Red
+0:00:00.389001: Red
+0:00:00.414003: Red
+0:00:00.439035: Red
+0:00:00.460034: Red
+0:00:00.482000: Red
+0:00:00.505033: Red
+0:00:00.529026: Red
+0:00:00.551002: Red
+0:00:00.574002: Red
+0:00:00.604006: Red
+0:00:00.636001: Red
+0:00:00.664003: Red
+0:00:00.694999: Red
+0:00:00.726004: Green
+0:00:00.761007: Green
+0:00:00.799001: Green
+0:00:00.825000: Green
+0:00:00.854999: Green
+0:00:00.880006: Green
+0:00:00.906999: Green
+0:00:00.934998: Green
+0:00:00.963005: Green
+0:00:00.986001: Green
+0:00:01.007998: Green
+0:00:01.031999: Green
+0:00:01.054999: Green
+0:00:01.081001: Green
+0:00:01.109001: Green
+0:00:01.139001: Green
+0:00:01.164000: Green
+0:00:01.190007: Green
+0:00:01.218001: Green
+0:00:01.246000: Green
+0:00:01.270003: Green
+0:00:01.294999: Green
+0:00:01.321998: Green
+0:00:01.345999: Green
+0:00:01.379002: Green
+0:00:01.406999: Yellow
+0:00:01.433999: Yellow
+0:00:01.462000: Yellow
+0:00:01.489002: Yellow
+0:00:01.515000: Yellow
+0:00:01.536998: Yellow
+0:00:01.558999: Yellow
+0:00:01.579000: Yellow
+0:00:01.598034: Yellow
+0:00:01.618000: Yellow
+0:00:01.637034: Yellow
+0:00:01.657033: Yellow
+0:00:01.677033: Yellow
+0:00:01.698462: Yellow
+0:00:01.717496: Yellow
+0:00:01.737496: Yellow
+0:00:01.758496: Yellow
+0:00:01.778497: Yellow
+0:00:01.799492: Yellow
+0:00:01.820462: Yellow
+0:00:01.839500: Yellow
+0:00:01.859462: Yellow
+0:00:01.879502: Yellow
+0:00:01.900496: Yellow
+0:00:01.921498: Yellow
+0:00:01.941463: No traffic light detected or unknown color
+0:00:01.963462: No traffic light detected or unknown color
+0:00:01.985463: No traffic light detected or unknown color
+0:00:02.005496: No traffic light detected or unknown color
+0:00:02.027496: No traffic light detected or unknown color
+0:00:02.046497: No traffic light detected or unknown color
+0:00:02.066496: No traffic light detected or unknown color
+0:00:02.087496: No traffic light detected or unknown color
+0:00:02.106496: No traffic light detected or unknown color
+0:00:02.126496: No traffic light detected or unknown color
+0:00:02.148497: No traffic light detected or unknown color
+0:00:02.168498: No traffic light detected or unknown color
+0:00:02.187496: No traffic light detected or unknown color
+0:00:02.207494: No traffic light detected or unknown color
+0:00:02.227496: No traffic light detected or unknown color
+0:00:02.250465: No traffic light detected or unknown color
+0:00:02.269464: No traffic light detected or unknown color
+0:00:02.289498: No traffic light detected or unknown color
+0:00:02.311499: No traffic light detected or unknown color
+0:00:02.331467: No traffic light detected or unknown color
+0:00:02.365462: No traffic light detected or unknown color
+0:00:02.392467: No traffic light detected or unknown color
+0:00:02.421484: No traffic light detected or unknown color
+0:00:02.448462: No traffic light detected or unknown color
+0:00:02.477465: No traffic light detected or unknown color
+0:00:02.505995: No traffic light detected or unknown color
